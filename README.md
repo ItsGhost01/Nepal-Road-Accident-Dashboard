@@ -1,8 +1,15 @@
 # Nepal Road Safety Analytics Dashboard (2023–2026)
 
 ## Overview
-Interactive Tableau dashboard for analyzing road traffic accidents in Nepal.  
-Focus is on identifying patterns based on time, location, road conditions, and driver attributes.
+This project presents an interactive dashboard built to analyze road traffic accidents in Nepal.  
+It helps identify patterns and trends based on time, location, road conditions, vehicle types, and driver attributes to support better decision making.
+
+---
+
+## Tools & Technologies
+- Tableau Desktop (Dashboard Development)
+- Data Visualization Techniques
+- Basic Data Cleaning (Tableau Calculated Fields)
 
 ---
 
@@ -10,30 +17,38 @@ Focus is on identifying patterns based on time, location, road conditions, and d
 - Source: https://www.kaggle.com/datasets/monishshrestha/road-traffic-accident-dataset-nepal-2023-present  
 - Records: 1,850  
 - Time Period: 2023–2026  
+- Type: Synthetic dataset generated using AI for academic and learning purposes  
 
 ---
 
-## Files
+## Project Files
 - `ITS68404_0362091_Dashboard.twbx` → Tableau dashboard file  
-- `ITS68404_0362091_INDVASGNMT.pdf` → Project report
-- `Nepal_Road_Traffic_Accidents_2023_2026_Updated` → Project report
+- `ITS68404_0362091_INDVASGNMT.pdf` → Detailed project report  
+- `Nepal_Road_Traffic_Accidents_2023_2026_Updated` → Dataset file  
 
 ---
 
-## Dashboard
-- KPI metrics (accidents, casualties, severity)
-- Year-over-Year comparison
-- Weather & road surface analysis
-- Speed zone analysis
-- Time of day trends
-- District & province distribution
+## Dashboard Features
+- KPI metrics (Total Accidents, Casualties, Severity levels)
+- Year-over-Year (YoY) comparison
+- Weather and road surface analysis
+- Speed zone impact analysis
+- Time of day accident trends
+- District and province-wise distribution
 - Vehicle type and driver gender insights
-- Interactive filters
+- Interactive filters (Year, Province, Severity)
 
 ---
 
-## Tableau Dashboard Link
+## Tableau Dashboard
 https://public.tableau.com/views/ITS68404_0362091_INDVASGNMT/Dashboardmain?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
+## Purpose
+- Understand accident patterns in Nepal  
+- Identify high-risk areas and conditions  
+- Support data-driven road safety decisions  
 
 ---
 
